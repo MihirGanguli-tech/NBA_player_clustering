@@ -1,7 +1,4 @@
-# NBA_player_clustering
 
-
-Readme · MD
 # NBA Player Clustering & Playstyle Similarity Model
  
 Groups NBA players into playstyle archetypes using unsupervised learning on shot location data and per game player statistics, then test whether those archetypes can be predicted.
