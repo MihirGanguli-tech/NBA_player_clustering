@@ -19,7 +19,7 @@ Groups NBA players into playstyle archetypes using unsupervised learning on shot
 
 Data source for shot data: *(https://www.kaggle.com/datasets/jackchen019/nba-2023-24-player-shooting-datainclude-playoffs/data)*
 
-Data source for player per game data: *(https://www.basketball-reference.com/leagues/NBA_2024_per_game.html) *
+Data source for player per game data: (https://www.basketball-reference.com/leagues/NBA_2024_per_game.html) 
 
 
  
